@@ -39,6 +39,7 @@ requirements:
     - filetype >=1.2.0,<2.0.0
     - ftfy >=6.1.3,<7.0.0
     - streamlit
+    - pdftext
 
 test:
   imports:
